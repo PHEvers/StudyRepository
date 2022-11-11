@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+* {
+    margin:0;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.wrapper{
+    column-width: 250px;
+    column-gap: 0px;
+    
+}
+.menu_velha{
+    display: grid;
+}
+.velha{
+    background-image: url('img/fundo_velha.jpeg');
+    /* background-color: rgba(255, 196, 0, 0.947); */
+    border: 2px solid rgba(173, 164, 0, 0.73);
+    padding: 10px;
+    margin: 0 0 1em 0;
+}
+.fundovelha img{
+    height: 50%;
+    width: 50%;
+}
+
+.menu_alameda{
+    display: grid;
+}
+.Alameda{
+    background-color: rgba(255, 196, 0, 0.899);
+    border: 2px solid rgb(173, 164, 0, 0.73);
+    padding: 10px;
+    margin: 0 0 1em 0;
+}
+
