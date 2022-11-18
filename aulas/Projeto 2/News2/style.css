@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(0, 16, 65);
+}
+
+#btn-save{
+    float: right;
+}
+footer{
+    background-color: aqua;
+}
